@@ -14,7 +14,7 @@ sections:
       from anywhere.
 
 
-      If your team isn't off the shelf, their training shouldn't be either.
+      If your team isn't off the peg, their training shouldn't be either.
     actions:
       - label: Learn More
         url: /features
