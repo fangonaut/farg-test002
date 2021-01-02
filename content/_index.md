@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Farg elearning simplified
-meta_description: elearning for the m
+meta_description: elearning for the remote workforce
 layout: landing
 ---
