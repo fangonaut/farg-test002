@@ -26,7 +26,7 @@ sections:
     title: Learning platform ready
     subtitle: Courses can be standalone or SCORM compliant
     features:
-      - title: The Best Feature of Your Services
+      - title: Bespoke and branded
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
