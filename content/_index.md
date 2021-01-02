@@ -1,5 +1,5 @@
 ---
-title: Farg | e-learning
+title: 'Farg | e-learning '
 sections:
   - section_id: hero
     type: section_hero
