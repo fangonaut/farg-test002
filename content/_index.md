@@ -23,7 +23,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Learning platform ready
     subtitle: Courses can be standalone or SCORM compliant
     features:
       - title: The Best Feature of Your Services
