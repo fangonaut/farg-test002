@@ -29,7 +29,7 @@ params:
         image: images/farg-grey.svg
         image_url: /
         image_alt: Footer logo
-        content: Affordable eLearning
+        content: Affordable besoke eLearning
       - type: footer_nav
         title: Company
         nav_links:
