@@ -31,8 +31,9 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >-
           We know that your marketing reflects your branding and values, we
-          believe your training materials should as well, branded training
-          demonstrates the value you have in your brand and collegues.
+          believe the training you deliver should as well, bespoke branded
+          training demonstrates the value you have in your not just in your
+          brand but also your collegues.
         actions:
           - label: Learn More
             url: /features
