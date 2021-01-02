@@ -13,6 +13,7 @@ sections:
       to create the right training for your team, which they can access anytime
       from anywhere.
 
+
       If your team isn't off the shelf, their training shouldn't be either.
     actions:
       - label: Learn More
