@@ -26,7 +26,7 @@ params:
   footer:
     sections:
       - type: footer_text
-        image: images/farg-social-logo_l_rect.svg
+        image: images/workplace-clear.png
         image_url: /
         image_alt: Footer logo
         content: Stackbit theme demo
