@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Farg simple elearning
+meta_title: Farg elearning simplified
 meta_description: The preview of the Azimuth theme
 layout: landing
 ---
