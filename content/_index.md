@@ -1,5 +1,5 @@
 ---
-title: Ulus
+title: Farg
 sections:
   - section_id: hero
     type: section_hero
