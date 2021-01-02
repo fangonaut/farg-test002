@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Farg e-Learning simplified
+meta_title: Agile based e-Learning development
 meta_description: custom e-Learning solutions  made with industry standard tools
 layout: landing
 ---
