@@ -24,7 +24,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: We use industry standard solutions in an agiles process.
+    subtitle: Courses can be standalone or SCORM compliant
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
