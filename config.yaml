@@ -93,7 +93,7 @@ params:
       href="https://app.stackbit.com/create?theme=azimuth" target="_blank"
       rel="noopener">here</a>.
   favicon: images/favicon@0.5x.png
-  domain: Far
+  domain: Farg.uk
 taxonomies:
   stub: stub
 disableKinds:
