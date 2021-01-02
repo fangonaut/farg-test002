@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Farg mode
+meta_title: 'Farg '
 meta_description: The preview of the Azimuth theme
 layout: landing
 ---
