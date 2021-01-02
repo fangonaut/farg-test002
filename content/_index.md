@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: e-Learning designed for the needs of your team
+    title: Affordable e-Learning designed for the needs of your team
     content: >-
       How do you keep your team up to date with their skills? If they're remote,
       what's a good way to deliver the training they need? At Farg.uk we work
