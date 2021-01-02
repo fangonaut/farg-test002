@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Agile based e-Learning development
-meta_description: custom e-Learning solutions  made with industry standard tools
+meta_description: Custom e-Learning solutions  made with industry standard tools
 layout: landing
 ---
