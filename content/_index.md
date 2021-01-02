@@ -102,4 +102,5 @@ sections:
 meta_title: Agile based e-Learning development
 meta_description: Custom e-Learning solutions  made with industry standard tools
 layout: landing
+canonical_url: 'https://farg.uk'
 ---
