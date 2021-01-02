@@ -9,7 +9,7 @@ sections:
     content: >-
       How do you keep your team up to date with their skills? If they're remote,
       what's a good way to deliver the training they need? At Farg.uk we work
-      with you to produce affordable tailored eLearning solutions that help you
+      with you to produce affordable tailored e-Learning solutions that help you
       to create the right training for your team, which they can access anytime
       from anywhere.
 
