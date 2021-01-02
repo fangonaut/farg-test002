@@ -58,8 +58,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          Do you need a voiceover for your programme? we can provide male and
-          female artists.
+          Do you need a voiceover or video for your programme? We have voiceover
+          and video production capabilty in house.
         actions:
           - label: Learn More
             url: /features
