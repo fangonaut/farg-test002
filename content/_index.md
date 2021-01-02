@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ulus
 sections:
   - section_id: hero
     type: section_hero
