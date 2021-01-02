@@ -92,6 +92,7 @@ params:
       rel="noopener">Stackbit</a>. Get yours <a
       href="https://app.stackbit.com/create?theme=azimuth" target="_blank"
       rel="noopener">here</a>.
+  favicon: images/favicon@0.5x.png
 taxonomies:
   stub: stub
 disableKinds:
