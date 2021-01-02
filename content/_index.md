@@ -32,8 +32,8 @@ sections:
         content: >-
           We know that your marketing reflects your branding and values, we
           believe the training you deliver should as well, bespoke branded
-          training demonstrates the value you have in your not just in your
-          brand but also your collegues.
+          training demonstrates the value you place, not just in your brand but
+          also your collegues.
         actions:
           - label: Learn More
             url: /features
