@@ -7,8 +7,13 @@ sections:
     image_alt: App preview
     title: e-Learning designed for the needs of your team
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      How do you keep your team up to date with their skills? If they're remote,
+      what's a good way to deliver the training they need? At Farg.uk we work
+      with you to produce affordable tailored eLearning solutions that help you
+      to create the right training for your team, which they can access anytime
+      from anywhere.
+
+      If your team isn't off the shelf, their training shouldn't be either.
     actions:
       - label: Learn More
         url: /features
