@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Farg elearning simplified
-meta_description: custom e-Learning solutions
+meta_description: custom e-Learning solutions  made with industry standard tools
 layout: landing
 ---
