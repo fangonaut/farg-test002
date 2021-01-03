@@ -21,5 +21,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/feature2.png
 layout: landing
 ---
