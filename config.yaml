@@ -2,7 +2,7 @@ title: Farg
 baseURL: /
 params:
   base_font: nunito-sans
-  palette: orange
+  palette: blue
   header:
     logo_img: images/clear@0.5x.png
     logo_img_alt: Logo
@@ -14,11 +14,12 @@ params:
       - label: Features
         url: /features
         style: link
-      - label: Pricing
-        url: /pricing
-        style: link
       - label: Style Guide
         url: /style-guide
+        style: link
+        has_icon: false
+      - label: Pricing
+        url: /pricing
         style: link
       - label: Sign Up
         url: /signup
@@ -26,10 +27,10 @@ params:
   footer:
     sections:
       - type: footer_text
-        image: images/logo-alt.svg
+        image: images/farg-grey.svg
         image_url: /
         image_alt: Footer logo
-        content: Stackbit theme demo
+        content: Affordable besoke eLearning
       - type: footer_nav
         title: Company
         nav_links:
