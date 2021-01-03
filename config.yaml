@@ -16,7 +16,7 @@ params:
         style: link
       - label: Style Guide
         url: /style-guide
-        style: primary
+        style: secondary
         has_icon: true
       - label: Pricing
         url: /pricing
