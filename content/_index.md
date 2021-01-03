@@ -58,8 +58,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          Do you need a voiceover or video for your programme? We have voiceover
-          and video production capabilty in house.
+          Do you need a voiceover or video for your programme? We have in
+          whether you need a presenter, interview  or drama based video we can
+          accomodate all of these in-house.
         actions:
           - label: Learn More
             url: /features
