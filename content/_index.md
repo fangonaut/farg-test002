@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Affordable eLearning
+    title: Tailored & affordable eLearning
     content: >-
       How do you keep your team up to date with their skills? If they're remote,
       what's a good way to deliver the training they need? At Farg.uk we work
@@ -14,7 +14,8 @@ sections:
       from anywhere.
 
 
-      If your team isn't off the shelf, their training shouldn't be either.
+      If your team isn't off the peg, perhaps their training shouldn't be
+      either.
     actions:
       - label: Learn More
         url: /features
@@ -22,18 +23,17 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Learning platform ready
+    subtitle: Courses can be standalone or SCORM compliant
     features:
-      - title: The Best Feature of Your Services
+      - title: Bespoke and branded
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          We know that your marketing reflects your branding and values, we
+          believe the training you deliver should as well, bespoke branded
+          training demonstrates the value you place, not just in your brand but
+          also your collegues.
         actions:
           - label: Learn More
             url: /features
@@ -41,13 +41,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Quality matters
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Good quality training is better for learning, better for retention but
+          most of all better value for money.
         actions:
           - label: Learn More
             url: /features
@@ -55,13 +54,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Voiceover & Video
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Do you need a voiceover or video for your programme? Whether you need
+          a presenter an interview or a drama based training scenario. Our
+          in-house team can accomodate all of these.
         actions:
           - label: Learn More
             url: /features
