@@ -59,8 +59,8 @@ sections:
         image_alt: App user profile preview
         content: >-
           Do you need a voiceover or video for your programme? Whether you need
-          a presenter an interview or a drama based training scenario we can
-          accomodate all of these in-house.
+          a presenter an interview or a drama based training scenario. Our
+          in-house team can accomodate all of these.
         actions:
           - label: Learn More
             url: /features
