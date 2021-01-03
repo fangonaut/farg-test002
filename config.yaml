@@ -14,11 +14,11 @@ params:
       - label: Features
         url: /features
         style: link
-      - label: Pricing
-        url: /pricing
-        style: link
       - label: Style Guide
         url: /style-guide
+        style: link
+      - label: Pricing
+        url: /pricing
         style: link
       - label: Sign Up
         url: /signup
