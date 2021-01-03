@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/11_thumb.jpg
     image_alt: App preview
-    title: Tailored & affordable eLearning
+    title: Tailored & affordable eLearning for your comapnay
     content: >-
       How do you keep your team up to date with their skills? If they're remote,
       what's a good way to deliver the training they need? At Farg.uk we work
