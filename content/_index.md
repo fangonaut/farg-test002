@@ -24,7 +24,7 @@ sections:
     type: section_features
     background: gray
     title: Do you use a leaning platform?
-    subtitle: Our courses can be standalone or SCORM compliant
+    subtitle: We make standalone and SCORM acompliant courses
     features:
       - title: Bespoke and branded
         image: images/feature1.png
