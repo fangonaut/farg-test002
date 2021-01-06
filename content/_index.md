@@ -3,7 +3,7 @@ title: Farg | e-Learning development
 sections:
   - section_id: hero
     type: section_hero
-    image: images/3.jpg
+    image: images/online-5266843_crop.png
     image_alt: App preview
     title: Tailored & affordable eLearning
     content: >-
