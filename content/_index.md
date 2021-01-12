@@ -24,7 +24,7 @@ sections:
     type: section_features
     background: gray
     title: Do you use a learning platform?
-    subtitle: We make standalone and SCORM compliant courses
+    subtitle: We make both standalone and SCORM compliant courses
     features:
       - title: Bespoke and branded
         image: images/feature1.png
