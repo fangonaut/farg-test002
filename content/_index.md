@@ -42,7 +42,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Quality matters
-        image: images/feature2.png
+        image: images/Artboard2.png
         image_alt: App users welcoming a new member
         content: >-
           Good quality training is better for learning, better for retention but
