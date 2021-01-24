@@ -80,12 +80,7 @@ params:
       - label: Privacy Policy
         url: /privacy-policy
         style: link
-    content: >-
-      &copy; Farg.uk. All rights reserved. This Jamstack site was created on <a
-      href="https://www.stackbit.com" target="_blank"
-      rel="noopener">Stackbit</a>. Get yours <a
-      href="https://app.stackbit.com/create?theme=azimuth" target="_blank"
-      rel="noopener">here</a>.
+    content: '&copy; Farg.uk. All rights reserved. '
   favicon: images/favicon@0.5x.png
   domain: farg.uk
 taxonomies:
