@@ -27,7 +27,7 @@ sections:
     subtitle: We make both standalone and SCORM compliant courses
     features:
       - title: Bespoke and branded
-        image: images/Artboard4.png
+        image: images/Artboard3.png
         image_alt: App preview on a phone and tablet
         content: >-
           We know that your marketing reflects your branding and values, we
