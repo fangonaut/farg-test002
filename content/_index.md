@@ -55,7 +55,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Voiceover & Video
-        image: images/feature3.png
+        image: images/Artboard3.png
         image_alt: App user profile preview
         content: >-
           Do you need a voiceover or video for your programme? Whether you need
