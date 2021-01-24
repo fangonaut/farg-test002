@@ -93,7 +93,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/edf.jpg
 meta_title: Agile based e-Learning development
 meta_description: Custom e-Learning solutions  made with industry standard tools
 layout: landing
