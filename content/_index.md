@@ -100,10 +100,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 meta_title: Agile based e-Learning development
 meta_description: Custom e-Learning solutions  made with industry standard tools
 layout: landing
