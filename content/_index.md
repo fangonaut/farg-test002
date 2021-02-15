@@ -93,6 +93,11 @@ sections:
     background: gray
     actions: []
     type: section_content
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 meta_title: Agile based e-Learning development
 meta_description: Custom e-Learning solutions  made with industry standard tools
 layout: landing
